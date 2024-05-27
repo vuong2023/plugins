@@ -8,7 +8,7 @@ setupAll()
 android {
     defaultConfig {
         applicationId = "moe.matsuri.plugin.xray"
-        versionCode = 11
+        versionCode = 21
         versionName = "v1.8.13"
     }
 }
